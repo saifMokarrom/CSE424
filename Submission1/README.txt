@@ -1,21 +1,19 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/byxtbkcqrhpz
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtube.com/..... (will be updated)
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1rMACdUqwqxYl7-WwcQjGVNUJ6nNLeW4aSS5g_DDPZQ0/edit?usp=sharing
 
 Project title:
-NLP using ANN
+Visual Question Answering Based on Multimodal Learning
 
 Group Number:
-0
+25
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20301121	Md Saif Mokarrom
+20301131	AL Shahriar Him
+20301159	Ismail Hossain Saihan 
