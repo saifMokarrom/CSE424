@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/ZviKumrZEig
 
 Two public links to the Concept Map (anyone on the internet can view without login):
-PDF: https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+PDF: https://github.com/saifMokarrom/CSE424/blob/main/Submission3/CSE424_Group%2025_Concept%20Map.pdf
 Native/original format: 
 https://drive.google.com/file/d/1nEeNr2MSolqnz4iKYguOYIi-TeAvFrOh/view?usp=sharing
 
