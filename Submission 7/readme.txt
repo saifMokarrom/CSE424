@@ -7,7 +7,6 @@ Unlisted YouTube video: https://youtu.be/
 Conference submitted paper / paper submission / login Link:
 
 
-Paper title:
 Project Title: Transformer Based Neural Network approach for Question Answer Problem 
 
 Paper presentation (anyone can view without login):
