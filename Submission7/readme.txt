@@ -5,23 +5,24 @@ Unlisted YouTube video: https://youtu.be/
 
 
 Conference submitted paper / paper submission / login Link:
+http://www.unitemeet.org/Author/PaperDetail.aspx?CID=146&PID=7964
 
 
 Paper title:
 Project Title: Transformer Based Neural Network approach for Question Answer Problem 
 
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 07.09.2023
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 7964
 
 
-Conference Name:
+Conference Name: 2023 IEEE 11th International Conference on Computer Science and Network Technology
 
 
 Conference URL:
-http://confsite/...
+http://www.iccsnt.org/ICCSNT2023/ShowArticle.asp?ArticleID=976 
 
 Group Number:
 25 
