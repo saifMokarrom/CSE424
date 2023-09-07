@@ -1,9 +1,6 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/7226447482xbjyddksbzhc
 
-Unlisted YouTube video: https://youtu.be/
-
-
 Conference submitted paper / paper submission / login Link:
 http://www.unitemeet.org/Author/PaperDetail.aspx?CID=146&PID=7964
 
