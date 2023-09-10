@@ -6,7 +6,7 @@ http://www.unitemeet.org/Author/PaperDetail.aspx?CID=146&PID=7964
 
 
 Paper title:
-Project Title: Transformer Based Neural Network approach for Question Answer Problem 
+Project Title: Improved of Transformer Based Neural Network approach for Question Answer Problem 
 
 
 Paper submission date (to workshop/conference): 07.09.2023
