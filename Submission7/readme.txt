@@ -5,7 +5,7 @@ Conference submitted paper / paper submission / login Link:
 https://cmt3.research.microsoft.com/PAKDD2024/Submission/Index
 
 Paper title:
-Project Title: Bangla QA System using Transformer Based Neural
+Project Title: Bangla QA System using Neural
 Network approach
 
 
