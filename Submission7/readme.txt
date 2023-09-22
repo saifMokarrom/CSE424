@@ -2,7 +2,6 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/3677647378hxfchggxzjzh
 
 Conference submitted paper / paper submission / login Link:
-http://www.unitemeet.org/Author/PaperDetail.aspx?CID=146&PID=7964
 
 
 Paper title:
@@ -10,17 +9,17 @@ Project Title: Bangla QA System using Transformer Based Neural
 Network approach
 
 
-Paper submission date (to workshop/conference): 07.09.2023
+Paper submission date (to workshop/conference): 22.09.2023
 
 
-Paper submission ID: 7964
+Paper submission ID: 13
 
 
-Conference Name: 2023 IEEE 11th International Conference on Computer Science and Network Technology
+Conference Name: The Pacific-Asia Conference on Knowledge Discovery and Data Mining
 
 
 Conference URL:
-http://www.iccsnt.org/ICCSNT2023/ShowArticle.asp?ArticleID=976 
+https://pakdd2024.org/ 
 
 Group Number:
 25 
