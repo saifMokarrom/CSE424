@@ -19,6 +19,7 @@ completed book:
 https://www.amazon.com/NLP-Work-Essence-Excellence-Professionals/dp/1857885295
 
 project:
+(Trying to build transformer architecture from scratch) https://colab.research.google.com/drive/1qCrCPdBJISq8CBMiqIKpB3FYug9QDrFB?usp=sharing 
 https://colab.research.google.com/drive/1DPEt82VjVarkfHsfqV2PCR4Ml5Wx-75y?usp=sharing
 https://colab.research.google.com/drive/1ya7zAUoPFraKi7YvoiX0sAiZNYULiW30?usp=sharing
 https://colab.research.google.com/drive/1itQMtOyTDGUbvC_-95sjAx8WTiKfb8tT?usp=sharing
